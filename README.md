@@ -1,3 +1,3 @@
 # connected-galaxy-client
-Client/Embedded part of the "Connected Galaxy" project on RaspberryPi with Docker. 
+Client/Mobile part of the "Connected Galaxy" project with ReactNative. 
 ## [Go to the Connected-Galaxy root project](https://github.com/Goyapa/connected-galaxy)
